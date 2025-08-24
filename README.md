@@ -18,7 +18,7 @@ EXPENSE LIST- This is a list of all expenses to be made with the option to edit 
   
 #ADDITIONS:   
 
-font from google font,
+font from google font and 
 icons from lucide icons
 
 NOTE: During the course of this project research, i got to know about the 
