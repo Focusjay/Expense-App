@@ -16,8 +16,9 @@ EXPENSE LIST- This is a list of all expenses to be made with the option to edit 
 - React
 - TailwindCSS
   
-#ADDITIONS:
-font from google font
+#ADDITIONS:   
+
+font from google font,
 icons from lucide icons
 
 NOTE: During the course of this project research, i got to know about the 
@@ -29,3 +30,4 @@ NOTE: During the course of this project research, i got to know about the
 
 
 ENJOY THE FOCUS EXPENSE APP AND TRACK YOUR SPENDING ON A DAILY BASIS!!!!!
+You can send in review to my email justinchimex52@gmail.com
