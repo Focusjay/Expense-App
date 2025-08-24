@@ -16,16 +16,16 @@ EXPENSE LIST- This is a list of all expenses to be made with the option to edit 
 - React
 - TailwindCSS
   
-#ADDITIONS
+#ADDITIONS:
 font from google font
 icons from lucide icons
 
 NOTE: During the course of this project research, i got to know about the 
-table tag
--thead tag: which is the table header section.
--th: this is also a table header cell.
--tr: this is a row in the table
--td; This is a table data, where inputs are added or cells in the row.
+- table tag: This comprises of
+- thead tag: which is the table header section.
+- th: this is also a table header cell.
+- tr: this is a row in the table
+- td; This is a table data, where inputs are added or cells in the row.
 
 
 ENJOY THE FOCUS EXPENSE APP AND TRACK YOUR SPENDING ON A DAILY BASIS!!!!!
